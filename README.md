@@ -49,7 +49,7 @@ This project is a clone of the Paytm application, developed using React.js for t
 - Create a .env file in the backend directory with the following variables:
 
     ```bash
-    PORT=5000
+    PORT=3000
     MONGODB_URI=your_mongodb_connection_string
     JWT_SECRET=your_secret_key
 
